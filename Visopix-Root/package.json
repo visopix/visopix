@@ -1,0 +1,8 @@
+{
+  "name": "visopix",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'Run via Vercel'",
+    "build": "echo 'Build handled by Vercel'"
+  }
+}
